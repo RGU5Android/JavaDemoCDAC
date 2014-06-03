@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="completion_proposal_size">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="javadoc">
+		<item value="false" key="nodeprecatedlist"/>
+		<item value="false" key="notree"/>
+		<item value="true" key="splitindex"/>
+		<item value="/usr/lib/jvm/java-7-oracle/bin/javadoc" key="javadoc_command_history"/>
+		<item value="true" key="use"/>
+		<item value="false" key="nonavbar"/>
+		<item value="private" key="access"/>
+		<item value="true" key="version"/>
+		<item value="false" key="nodeprecated"/>
+		<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/01.StaticBlock/doc" key="destdir"/>
+		<item value="true" key="author"/>
+		<item value="" key="docletname"/>
+		<item value="1.7" key="source"/>
+		<item value="false" key="openinbrowser"/>
+		<item value="false" key="noindex"/>
+		<item value="" key="docletpath"/>
+		<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/01.StaticBlock/javadoc.xml" key="antpath"/>
+		<item value="true" key="fromStandard"/>
+		<section name="projects">
+			<section name="19.02.Socket.Application.Chatting">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.02.Socket.Application.Chatting/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.02.Socket.Application.Chatting/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.04.Thread.ImplementsRunnable">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.04.Thread.ImplementsRunnable/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.04.Thread.ImplementsRunnable/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.08.Collection.List.Stack">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.08.Collection.List.Stack/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.08.Collection.List.Stack/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.10.Collection.Set.TreeSet">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.10.Collection.Set.TreeSet/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.10.Collection.Set.TreeSet/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.12.Map.LinkedHashMap">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.12.Map.LinkedHashMap/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.12.Map.LinkedHashMap/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="05.ArrayOfClasses">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/05.ArrayOfClasses/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/05.ArrayOfClasses/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.13.Map.TreeMap">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.13.Map.TreeMap/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.13.Map.TreeMap/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.07.Synchronization.On.Block">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.07.Synchronization.On.Block/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.07.Synchronization.On.Block/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="16.01.GUI Swing">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/16.01.GUI Swing/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/16.01.GUI Swing/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.04.Iterator.Interface">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.04.Iterator.Interface/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.04.Iterator.Interface/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.14.Map.HashTable">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.14.Map.HashTable/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.14.Map.HashTable/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="09.AbstractClass.&amp;.Method">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/09.AbstractClass.&amp;.Method/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/09.AbstractClass.&amp;.Method/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="08.01.InterfaceBasics">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.01.InterfaceBasics/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.01.InterfaceBasics/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.06.Collection.List.Vector">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.06.Collection.List.Vector/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.06.Collection.List.Vector/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="15.04.Calculator">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.04.Calculator/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.04.Calculator/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="15.01.AWTDemo">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.01.AWTDemo/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.01.AWTDemo/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="08.02.InterfaceSlicing">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.02.InterfaceSlicing/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.02.InterfaceSlicing/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="17.Applet">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/17.Applet/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/17.Applet/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.03.Comparator.Interface">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.03.Comparator.Interface/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.03.Comparator.Interface/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="07.04.AnonymousInnerClass">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.04.AnonymousInnerClass/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.04.AnonymousInnerClass/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="12.01.SimpleStackGeneric">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/12.01.SimpleStackGeneric/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/12.01.SimpleStackGeneric/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.09.BallMovingThread">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.09.BallMovingThread/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.09.BallMovingThread/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.08.Synchronization.On.Method">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.08.Synchronization.On.Method/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.08.Synchronization.On.Method/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="15.03.PaintMouseEvent">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.03.PaintMouseEvent/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.03.PaintMouseEvent/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="07.02.NonStaticInnerClass">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.02.NonStaticInnerClass/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.02.NonStaticInnerClass/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.03.Thread.ExtendsThread">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.03.Thread.ExtendsThread/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.03.Thread.ExtendsThread/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="19.01.Socket.Application.Chatting">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.01.Socket.Application.Chatting/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.01.Socket.Application.Chatting/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="10.01.Final.LocalVariable.Fields.Methods">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/10.01.Final.LocalVariable.Fields.Methods/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/10.01.Final.LocalVariable.Fields.Methods/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="06.Inheritance">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/06.Inheritance/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/06.Inheritance/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="20.RemoteMethodInvocation">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/20.RemoteMethodInvocation/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/20.RemoteMethodInvocation/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.11.Map.HashMap">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.11.Map.HashMap/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.11.Map.HashMap/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="19.04.GUIForChatting">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.04.GUIForChatting/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.04.GUIForChatting/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="10.02.FinalClass">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/10.02.FinalClass/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/10.02.FinalClass/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="15.02.GUI AWD">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.02.GUI AWD/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/15.02.GUI AWD/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="07.03.LocalInnerClass(Class inside a method)">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.03.LocalInnerClass(Class inside a method)/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.03.LocalInnerClass(Class inside a method)/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="19.03.GUI.Socket.Application.Chatting">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.03.GUI.Socket.Application.Chatting/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/19.03.GUI.Socket.Application.Chatting/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="03.Scanner">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/03.Scanner/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/03.Scanner/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="RemoteSystemsTempFiles">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/RemoteSystemsTempFiles/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/RemoteSystemsTempFiles/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="08.04.MultipleInterfaceImplementation">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.04.MultipleInterfaceImplementation/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.04.MultipleInterfaceImplementation/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="13.Serializable">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/13.Serializable/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/13.Serializable/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.02.Comparable.Interface">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.02.Comparable.Interface/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.02.Comparable.Interface/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="21.Reflection">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/21.Reflection/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/21.Reflection/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="02.Enum">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/02.Enum/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/02.Enum/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="01.StaticBlock">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/01.StaticBlock/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/01.StaticBlock/javadoc.xml" key="antpath"/>
+				<item value="http://download.oracle.com/javase/7/docs/api/" key="href"/>
+			</section>
+			<section name="14.07.Collection.List.Stack">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.07.Collection.List.Stack/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.07.Collection.List.Stack/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.01.Mutable.or.Immutable(StringBuilder)">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.01.Mutable.or.Immutable(StringBuilder)/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.01.Mutable.or.Immutable(StringBuilder)/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.08.Collection.Set.HashSet">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.08.Collection.Set.HashSet/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.08.Collection.Set.HashSet/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="12.02.AdvancedGeneric">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/12.02.AdvancedGeneric/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/12.02.AdvancedGeneric/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.09.Collection.Set.LinkedHashSet">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.09.Collection.Set.LinkedHashSet/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.09.Collection.Set.LinkedHashSet/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="07.01.StaticInnerClass">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.01.StaticInnerClass/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/07.01.StaticInnerClass/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="04.ArrayDemo">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/04.ArrayDemo/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/04.ArrayDemo/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.02.Thread.ImplementsRunnable">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.02.Thread.ImplementsRunnable/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.02.Thread.ImplementsRunnable/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="11.01.Exception.&amp;.RunnableException">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/11.01.Exception.&amp;.RunnableException/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/11.01.Exception.&amp;.RunnableException/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.05.Thread.ExtendsThread.Daemon">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.05.Thread.ExtendsThread.Daemon/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.05.Thread.ExtendsThread.Daemon/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="08.03.InterfaceInheritance">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.03.InterfaceInheritance/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/08.03.InterfaceInheritance/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.04.Collection.List.ArrayList">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.04.Collection.List.ArrayList/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.04.Collection.List.ArrayList/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.06.Thread.ImplementsRunnable.Daemon">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.06.Thread.ImplementsRunnable.Daemon/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.06.Thread.ImplementsRunnable.Daemon/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="18.01.Thread.ExtendsThreads">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.01.Thread.ExtendsThreads/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/18.01.Thread.ExtendsThreads/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+			<section name="14.05.Collection.List.LinkedList">
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.05.Collection.List.LinkedList/doc" key="destdir"/>
+				<item value="/JAVA/JavaWorkspace/JavaDemoCDAC/14.05.Collection.List.LinkedList/javadoc.xml" key="antpath"/>
+				<item value="" key="href"/>
+			</section>
+		</section>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item value="802" key="DIALOG_WIDTH"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="681" key="DIALOG_HEIGHT"/>
+		<item value="283" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Monaco|10.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+	</section>
+</section>
